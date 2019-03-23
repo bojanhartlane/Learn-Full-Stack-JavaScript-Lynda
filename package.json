@@ -1,0 +1,40 @@
+{
+  "name": "fullstackjs",
+  "version": "1.0.0",
+  "description": "Learn Full Stack JavaScript Development with Node, MongoDB, and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bojanhartlane/Learn-Full-Stack-JavaScript-Lynda.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bojanhartlane/Learn-Full-Stack-JavaScript-Lynda/issues"
+  },
+  "homepage": "https://github.com/bojanhartlane/Learn-Full-Stack-JavaScript-Lynda#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.2.2",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5"
+  },
+  "devDependencies": {
+    "@babel/node": "7.x",
+    "@babel/core": "^7.4.0",
+    "@babel/plugin-proposal-class-properties": "^7.4.0",
+    "@babel/preset-env": "^7.4.2",
+    "@babel/preset-react": "^7.0.0",
+    "babel-eslint": "^10.0.1",
+    "babel-loader": "^8.0.5",
+    "eslint": "^5.15.3",
+    "eslint-plugin-react": "^7.12.4",
+    "nodemon": "^1.18.10",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  }
+}
